@@ -1,2 +1,2 @@
-# Estudos-de-Flex-Box
+# Estudos sobre Flexbox
  Exercício sobre o uso de Flexbox
