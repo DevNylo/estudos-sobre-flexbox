@@ -8,6 +8,14 @@
 a{
     color: white;
 }
+a:active{
+    content: '';
+    color: white;
+}
+a:visited{
+    content: '';
+    color: white;
+}
 
 /*--------------MENU-----------------*/
 
